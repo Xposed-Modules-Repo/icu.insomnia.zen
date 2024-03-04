@@ -2,7 +2,7 @@
 
 
 <h1>ZenMode</h1>
-<h2>规定时间内禁止打开App</h2>
+<h2>规定时间内禁止打开指定App</h2>
 
 </div>
 <div align="center">
