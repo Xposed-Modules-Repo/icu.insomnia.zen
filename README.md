@@ -15,7 +15,7 @@
 <br/>
 
 ## preface
-**此app不存在恶意代码 不放心的可以查看 [源代码](https://github.com/People-11/FuckGJZS](https://github.com/NoonieBao/ZenMode))，并自行判断文件是否安全**
+**此app仅修改`android.app.Activity#onResume`，不存在恶意代码，[源代码](https://github.com/People-11/FuckGJZS](https://github.com/NoonieBao/ZenMode))，请自行判断文件是否安全**
 
 ## Warning
 确保你Xposed版本支持**作用域**，否则请勿安装<br/>
