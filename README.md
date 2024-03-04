@@ -19,7 +19,7 @@
 
 ## Warning
 确保你Xposed版本支持**作用域**，否则请勿安装<br/>
-确保发生意外情况时您能够恢复设备！<br/>
+请谨慎操作，并确保发生意外情况时您能够恢复设备！<br/>
 推荐搭配`自动救砖`使用，[FuckGJZS](https://github.com/People-11/FuckGJZS)<br/>
 
 
