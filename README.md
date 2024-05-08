@@ -8,7 +8,7 @@
 <div align="center">
 
 
-  [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/icu.insomnia.zen?label=stars)](https://github.com/Xposed-Modules-Repo/icu.insomnia.zen)
+  [![Stars](https://img.shields.io/github/stars/NoonieBao/ZenMode?label=stars)](https://github.com/NoonieBao/ZenMode)
   [![LSP%20Repo](https://img.shields.io/github/downloads/Xposed-Modules-Repo/icu.insomnia.zen/total?label=LSP%20Repo&labelColor=F48FB1)](https://github.com/Xposed-Modules-Repo/icu.insomnia.zen/releases)[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/icu.insomnia.zen)](https://github.com/Xposed-Modules-Repo/icu.insomnia.zen/releases/latest)
 </div>
 
